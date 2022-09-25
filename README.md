@@ -1,5 +1,5 @@
-# pythonanywhere2019
-This code was created before 2020 on pythonanywhere and is on github for archiving purposes.
+# Old Python
+This code was created before 2020 and is on github for archiving purposes.
 
 ## How to run
 This code was developed and tested on python 2.7 so it is incompatable with any python 3 and if a syntax error (e.g. `Syntax Error: Missing parentheses in call to 'print'...`) is raised then it is most likely that you are running it through a python3 interpretor.
