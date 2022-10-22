@@ -23,4 +23,4 @@ Furthermore, many confirmation prompts and other prompts that may require you to
 ## Further Notes
 A significant proportion of this code was written earlier than the name of the repository or the age of the file suggests as it was moved from an earlier location to over hear. Some of it, such as `mono.py`, is as old as 2016 or even older. 
 
-Additionally, much of this code remains unfinished and abandoned so there are no guarantees that any given file will be complete or even work.
+
